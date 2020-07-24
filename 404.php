@@ -22,5 +22,5 @@
         <?php get_sidebar(); ?>
 
       </div><!-- /.row -->
-      
+      <!-- just another comment -->
 	<?php get_footer(); ?>
