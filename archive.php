@@ -38,5 +38,5 @@
         <?php get_sidebar(); ?>
 
       </div><!-- /.row -->
-      
+      <!-- just a commit test -->
 	<?php get_footer(); ?>
