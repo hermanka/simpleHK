@@ -24,3 +24,4 @@
       </div><!-- /.row -->
       <!-- just another comment -->
 	<?php get_footer(); ?>
+<!-- just another comment -->
